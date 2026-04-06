@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Debug/temporary images
+debug_*.png
+zoom_*.png
+ref_*.png
+map_*_refpoints.png
+map_*_detected.png
+map_*_grid.png
+
+# PDF source pages (large)
+page1.png
+page2.png
+
+# OS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
